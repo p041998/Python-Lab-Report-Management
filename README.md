@@ -45,6 +45,15 @@ The project is related to medical report management. Where image of the report i
 - Step 2: Find Outline
 
 
+[
+![outline](https://user-images.githubusercontent.com/51942846/60758530-85340300-a035-11e9-8fcf-af3a7c2005da.PNG)
+](url)
+
+
+- Step 3: Apply a perspective transform to obtain the top-down view of the document.
+
+
+
 
 
 
