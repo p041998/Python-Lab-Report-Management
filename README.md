@@ -60,7 +60,9 @@ The project is related to medical report management. Where image of the report i
 
 **Phase 2- Convert scanned image into text file**
 
-- Here we convert scanned image into text file where all text in image is extract and store it into text file using image-to-string
+- Here we convert scanned image into text file where all text data from image is extract and store it into text file using image-to-       string
+
+
 
 
 
