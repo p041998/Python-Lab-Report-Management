@@ -53,17 +53,19 @@ The project is related to medical report management. Where image of the report i
 - Step 3: Apply a perspective transform to obtain the top-down view of the document.
 
 
-[
-![scanned image](https://user-images.githubusercontent.com/51942846/60758570-0f7c6700-a036-11e9-8645-08761d0489ae.PNG)
-](url)
+    [
+    ![scanned image](https://user-images.githubusercontent.com/51942846/60758570-0f7c6700-a036-11e9-8645-08761d0489ae.PNG)
+    ](url)
 
 
 **Phase 2- Convert scanned image into text file**
 
 - Here we convert scanned image into text file where all text data from image is extract and store it into text file using image-to-       string
+  
+  
+  
 
-
-
+    
 
 
 
