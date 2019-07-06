@@ -39,23 +39,24 @@ The project is related to medical report management. Where image of the report i
 - Step 1: Detect edges
 
 
-![edge detect](https://user-images.githubusercontent.com/51942846/60758475-bc55e480-a034-11e9-9cd4-eff05cee4d46.PNG)
+     ![edge detect](https://user-images.githubusercontent.com/51942846/60758475-bc55e480-a034-11e9-9cd4-eff05cee4d46.PNG)
 
 
 - Step 2: Find Outline
 
 
-[
-![outline](https://user-images.githubusercontent.com/51942846/60758530-85340300-a035-11e9-8fcf-af3a7c2005da.PNG)
-](url)
+     [
+      ![outline](https://user-images.githubusercontent.com/51942846/60758530-85340300-a035-11e9-8fcf-af3a7c2005da.PNG)
+      ](url)
 
 
 - Step 3: Apply a perspective transform to obtain the top-down view of the document.
 
 
-    [
+   [
     ![scanned image](https://user-images.githubusercontent.com/51942846/60758570-0f7c6700-a036-11e9-8645-08761d0489ae.PNG)
     ](url)
+
 
 
 **Phase 2- Convert scanned image into text file**
@@ -64,6 +65,9 @@ The project is related to medical report management. Where image of the report i
   
   
   
+     [
+      ![text file](https://user-images.githubusercontent.com/51942846/60758651-325b4b00-a037-11e9-9be4-24e7976a5b01.PNG)
+      ](url)
 
     
 
