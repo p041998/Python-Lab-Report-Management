@@ -36,5 +36,17 @@ The project is related to medical report management. Where image of the report i
 
   Step 3: Apply a perspective transform to obtain the top-down view of the document.
   
-- Step 1:
+- Step 1: Detect edges
+
+
+![edge detect](https://user-images.githubusercontent.com/51942846/60758475-bc55e480-a034-11e9-9cd4-eff05cee4d46.PNG)
+
+
+- Step 2: Find Outline
+
+
+
+
+
+
 
