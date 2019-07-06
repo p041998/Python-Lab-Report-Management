@@ -18,6 +18,7 @@ The project is related to medical report management. Where image of the report i
 - Skimage
 - PIL
 - Pytesseract
+- Flask
 
 **About Project**
 - As the name of the project Lab report management we are trying to devlope software which is useful for storing medical details of patients. This Software actually convert images(jpg,png) into text file.
@@ -69,7 +70,23 @@ The project is related to medical report management. Where image of the report i
       ![text file](https://user-images.githubusercontent.com/51942846/60758651-325b4b00-a037-11e9-9be4-24e7976a5b01.PNG)
       ](url)
 
-    
+
+**Phase 3- Extract data and store it in database (UI)**
+
+- Here we extract particular data like doctor name, patient name, age, etc. using file handling concept.(Still wrorking on it)
+
+- User Intrface created using flask framework.(not completed)
+
+
+**References:**
+
+- https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+
+- https://www.youtube.com/watch?v=u0oDDZrDz9U&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=8
+
+
+  
+
 
 
 
