@@ -1,0 +1,7 @@
+{% extends "layout.html" %}
+{% block content %}
+	{% for post in posts%}
+		<h1> {{ post.username}}</h1>
+		<h2>{{ post.email}}</h2>
+	{% endfor %}
+{% endblock content %}ss
